@@ -1,8 +1,8 @@
-I:\FrameworkPro\src\main\java\pageobjects\AccountSuccessPage.java
-I:\FrameworkPro\src\main\java\pageobjects\AccountPage.java
-I:\FrameworkPro\src\main\java\pageobjects\LandingPage.java
-I:\FrameworkPro\src\main\java\pageobjects\RegistrationPage.java
-I:\FrameworkPro\src\main\java\pageobjects\LoginPage.java
-I:\FrameworkPro\src\main\java\listeners\Listeners.java
-I:\FrameworkPro\src\main\java\resource\Base.java
-I:\FrameworkPro\src\main\java\utilities\ExtentReporter.java
+D:\localrepo\Pageobjectrepo\src\main\java\pageobjects\AccountSuccessPage.java
+D:\localrepo\Pageobjectrepo\src\main\java\pageobjects\LandingPage.java
+D:\localrepo\Pageobjectrepo\src\main\java\pageobjects\AccountPage.java
+D:\localrepo\Pageobjectrepo\src\main\java\pageobjects\RegistrationPage.java
+D:\localrepo\Pageobjectrepo\src\main\java\utilities\ExtentReporter.java
+D:\localrepo\Pageobjectrepo\src\main\java\listeners\Listeners.java
+D:\localrepo\Pageobjectrepo\src\main\java\resource\Base.java
+D:\localrepo\Pageobjectrepo\src\main\java\pageobjects\LoginPage.java

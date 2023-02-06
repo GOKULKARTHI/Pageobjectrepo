@@ -25,7 +25,7 @@ public class Base {
 
 		 prop = new Properties();
 
-		String proppath = "I:\\FrameworkPro\\src\\main\\java\\resource\\data.properties";
+		String proppath = "D:\\localrepo\\Pageobjectrepo\\src\\main\\java\\resource\\data.properties";
 
 		FileInputStream fis = new FileInputStream(proppath);
 	    prop.load(fis);
@@ -65,7 +65,7 @@ public class Base {
 		
 	    TakesScreenshot ts = (TakesScreenshot)driver;
 	    File src = ts.getScreenshotAs(OutputType.FILE);
-	    String des = "I:\\FrameworkPro\\Sceenshots\\"+testName+".png";
+	    String des = "D:\\localrepo\\Pageobjectrepo\\Sceenshots\\"+testName+".png";
 	    FileUtils.copyFile(src,new File(des));
 	    return des;
 	    
